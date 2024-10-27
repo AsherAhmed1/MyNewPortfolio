@@ -1,6 +1,6 @@
 import React from "react";
 import asherImage from "../../../Assets/Images/Asher_Landing_Page_Image.jpg";
-import myResume from "../../../Assets/Resume/Ashers_Resume_Updated.pdf";
+import myResume from "../../../Assets/Resume/Asher-Resume-Update.pdf";
 
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
